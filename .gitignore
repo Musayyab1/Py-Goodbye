@@ -1,0 +1,4 @@
+.env
+__pycache__/
+Following_list.xlsx
+max_id.txt

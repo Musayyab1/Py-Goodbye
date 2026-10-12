@@ -1116,9 +1116,18 @@
             }
           }
         ]
+      },
+      {
+        "id": 1,
+        "title": "New LINDDUN diagram",
+        "diagramType": "LINDDUN",
+        "placeholder": "New LINDDUN diagram description",
+        "thumbnail": "./public/content/images/thumbnail.linddun.jpg",
+        "version": "2.6.2",
+        "cells": []
       }
     ],
-    "diagramTop": 1,
+    "diagramTop": 2,
     "reviewer": "A security architect",
     "threatTop": 0
   }
